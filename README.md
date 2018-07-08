@@ -15,3 +15,5 @@ This project was assigned after Week 1 of Skill Distillery's Java Coding School.
 * vi
 
 ### Lessons Learned
+* I learned how important loops are for making the code shorter and easier to read for other developers.
+* I also found it interesting how you have to account for the small inaccuracy of doubles when writing logic for their calculations. 
